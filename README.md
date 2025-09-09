@@ -1,8 +1,7 @@
 # Threat-Detection-in-IoT
 ### An intelligent approach to improving the performance of Threat detection in IOT
 
-## Download  Full Project & Report from Drive : 
-[Drive Link](https://drive.google.com/file/d/1JL_SB7ZA1FG9mH_b_VMA6hgqIiiG2FaW/view?usp=sharing)
+
 
 ## Introduction
 This project aims to enhance the performance of threat detection in Internet of Things (IoT) environments using intelligent approaches. With the rapid growth of IoT devices, ensuring robust security measures has become imperative. My solution leverages advanced machine learning techniques and data analysis to detect and mitigate threats efficiently.
@@ -89,7 +88,3 @@ To install and run this project, follow these steps:
      </tr>
    </table>
 
-## Contact
-For any inquiries or feedback, please contact me at nsakash752003@gmail.com
-
-I hope this project helps in securing IoT environments more effectively. Happy coding!

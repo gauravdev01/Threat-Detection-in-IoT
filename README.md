@@ -41,7 +41,7 @@ This project aims to enhance the performance of threat detection in Internet of 
 To install and run this project, follow these steps:
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/ns7523/Threat-Detection-in-IoT.git
+   git clone https://github.com/gauravdev01/Threat-Detection-in-IoT.git
    cd Threat-Detection-in-IoT
    ```
    
